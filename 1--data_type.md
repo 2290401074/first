@@ -7,7 +7,7 @@ int main() //main is stand for this function is the first running function,int i
   return 0;//0 is a int type
 }
 
-Differe data types has different Bytes occupied
+Different data types has different Bytes occupied
 char 1
 short 2
 int 4
