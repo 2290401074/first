@@ -12,3 +12,6 @@ int main(){
   printf("%d\n",strlen(arr2));//a random number
   return 0;
 }
+
+Escape character is a series of characters whose meaning was changed.
+For example,"\n" can break the line,"\ddd" can force the decimal number converse into the octal number,also "\xdd" can force the decimal number converse into the hexadecimal number.
