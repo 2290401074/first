@@ -19,7 +19,7 @@ int main(){
   int line = 1;
   while (line<10000)
   {
-    printf("line = %d",line);
+    printf("line = %d",line++);
   }
   printf("line is 10000");
   return 0;
